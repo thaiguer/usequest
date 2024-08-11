@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LtyfZfYD9UA=",
+  "dgSpecHash": "nwW8/AdhdwI=",
   "success": true,
   "projectFilePath": "C:\\dev\\usequest\\UseQuest\\UseQuest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\thaig\\.nuget\\packages\\questpdf\\2024.7.2\\questpdf.2024.7.2.nupkg.sha512"
+  ],
   "logs": []
 }
